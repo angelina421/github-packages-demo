@@ -17,4 +17,7 @@
   "scripts": {
     "test": "node index.js"
   }
+  "publishConfig": {
+    "@angelina421:registry": "https://npm.pkg.github.com"
+  }
 }
